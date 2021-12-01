@@ -88,7 +88,7 @@ include::Who-Is-MrChecker/Test-Framework-Modules/Mobile-Test-Module.asciidoc[lev
 
 include::Who-Is-MrChecker/Test-Framework-Modules/Mobile-Test-Module-How-to-use.asciidoc[leveloffset=4]
 
-=== DevOps Test Module
+=== DevOPS Test Module
 
 include::Who-Is-MrChecker/Test-Framework-Modules/DevOPS-Test-Module.asciidoc[leveloffset=4]
 
@@ -116,7 +116,7 @@ include::MrChecker-download/Mac.asciidoc[leveloffset=4]
 include::MrChecker-download/MyThaiStar.asciidoc[leveloffset=4]
 == Tutorials
 
-In order to learn more about MrChecker structure, start from Project Organisation section and then check out our fantastic tutorials:
+In order to learn more about MrChecker structure, start from Project Organization section and then check out our fantastic tutorials:
 
 This tutorial will guide you through the series of test which perform basic actions on webpages using MrChecker.
 

@@ -12,6 +12,6 @@ Every customer may benefit from using MrChecker Test Framework. The main profits
 
 * Touch base with the Cloud solution
 
-* Faster Quality and DevOps-driven delivery
+* Faster Quality and DevOPS-driven delivery
 
 * Proven frameworks, technologies and processes.
